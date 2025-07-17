@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "The Art of Sourdough: Crusty, Tangy, Perfect",
+    "author": "BreadSmith",
+    "date": "2025-07-11",
+    "tags": ["Bread", "Baking", "Fermentation", "Sourdough"],
+    "image": "https://images.pexels.com/photos/3915906/pexels-photo-3915906.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "summary": "Sourdough is more than bread—it's a living tradition passed through generations.",
+    "content": "From maintaining your starter to scoring the perfect crust, sourdough baking blends art and science."
+  },
+  {
+    "id": 2,
+    "title": "Spice Symphony: The World of Indian Curries",
+    "author": "CurryChronicles",
+    "date": "2025-07-10",
+    "tags": ["Indian", "Curry", "Spices", "Food Culture"],
+    "image": "https://spiceeats.com/wp-content/uploads/2020/07/Bhuna-Mutton.jpg",
+    "summary": "Curries tell the story of India's diversity—every region adds its own flavor.",
+    "content": "Explore the cultural roots and spice profiles behind India’s most beloved dishes."
+  },
+  {
+    "id": 3,
+    "title": "Ramen Renaissance: From Broth to Bowl",
+    "author": "NoodleNirvana",
+    "date": "2025-07-09",
+    "tags": ["Japanese", "Ramen", "Soup", "Street Food"],
+    "image": "https://mediavine-res.cloudinary.com/image/upload/s--NGif5kaM--/ar_16:9,c_fill,f_auto,fl_lossy,q_auto/v1544487685/hnztcbzoncrpaokkfap7.jpg",
+    "summary": "Ramen isn't just instant noodles—it's a culinary obsession.",
+    "content": "Discover the components of a perfect ramen bowl and why it has taken global foodies by storm."
+  },
+  {
+    "id": 4,
+    "title": "Pizza: A Slice of Italian Soul",
+    "author": "DoughDiaries",
+    "date": "2025-07-08",
+    "tags": ["Pizza", "Italian", "Street Food", "Comfort Food"],
+    "image": "https://tse3.mm.bing.net/th/id/OIP.8UeIFPMYwIErE1ShRYB9QAHaEo?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "summary": "From Naples to New York, pizza is the planet’s favorite comfort food.",
+    "content": "We explore the evolution of pizza and how to make the perfect dough at home."
+  },
+  {
+    "id": 5,
+    "title": "Biryani Battles: Hyderabadi vs Lucknowi",
+    "author": "RiceAndSpice",
+    "date": "2025-07-07",
+    "tags": ["Biryani", "Indian", "Rice", "Spices"],
+    "image": "https://tse2.mm.bing.net/th/id/OIP.VqkIvD_jNJTXRCQotzKOUQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "summary": "Biryani is royalty in a bowl—fluffy rice and tender meat bursting with flavor.",
+    "content": "Explore regional differences in India's favorite rice dish and how to recreate them."
+  },
+  {
+    "id": 6,
+    "title": "Chocolate: Bittersweet Bliss",
+    "author": "CocoaCraft",
+    "date": "2025-07-06",
+    "tags": ["Chocolate", "Dessert", "Sweet", "Confectionery"],
+    "image": "https://static01.nyt.com/images/2020/01/15/dining/ss-black-forest-cake/merlin_165684495_6689b1a0-42b5-4228-b871-37bb983d797e-superJumbo.jpg",
+    "summary": "From bean to bar, chocolate is a journey of indulgence.",
+    "content": "Learn about chocolate varieties and get inspired with truffle and cake recipes."
+  },
+  {
+    "id": 7,
+    "title": "Taco Culture: A Mexican Masterpiece",
+    "author": "TortillaTales",
+    "date": "2025-07-05",
+    "tags": ["Mexican", "Tacos", "Street Food", "Culture"],
+    "image": "https://thetoastedpinenut.com/wp-content/uploads/2017/08/IMG_5288.jpg",
+    "summary": "Tacos are a celebration of culture, flavor, and tradition.",
+    "content": "Explore the varieties of tacos and the tradition of taquerías in Mexico."
+  },
+  {
+    "id": 8,
+    "title": "Korean BBQ: Fire, Flavor, and Fun",
+    "author": "SeoulSpice",
+    "date": "2025-07-04",
+    "tags": ["Korean", "BBQ", "Grill", "Meat"],
+    "image": "https://www.awesomecuisine.com/wp-content/uploads/2020/03/chilli-chicken.jpg",
+    "summary": "K-BBQ is a social feast of grilled meats and flavorful marinades.",
+    "content": "Learn the key ingredients, sauces, and etiquette of Korean barbecue."
+  },
+  {
+    "id": 9,
+    "title": "Afternoon Tea: A British Ritual",
+    "author": "CrumpetChronicles",
+    "date": "2025-07-03",
+    "tags": ["British", "Tea", "Tradition", "Dessert"],
+    "image": "https://media.istockphoto.com/photos/delicious-idli-served-with-chutney-and-sambar-picture-id914423326?k=20&m=914423326&s=612x612&w=0&h=9mdua9F5Sj00sbeRN80j-WqSzG63uocrUiu8ZpOBfZc=",
+    "summary": "Afternoon tea is elegance in every sip and bite.",
+    "content": "Discover its royal roots and how to prepare your own scones and sandwiches."
+  },
+  {
+    "id": 10,
+    "title": "Sushi: Precision on a Plate",
+    "author": "TokyoBites",
+    "date": "2025-07-02",
+    "tags": ["Japanese", "Sushi", "Seafood", "Tradition"],
+    "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "summary": "Sushi is not just food—it’s a craft of flavor, balance, and simplicity.",
+    "content": "Explore different types of sushi and what makes this Japanese staple so revered worldwide."
+  }
+]
