@@ -19,8 +19,8 @@ const AdminNavbar=()=>{
                     router.push("/DeleteA");
                 }}>Delete</div>
                 <div className="nav-item" onClick={()=>{
-                    router.push("/LoginA");
-                }}>Enter</div>
+                    router.push("/BlogU");
+                }}>Logout</div>
             </div>
         </div>
     )
